@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Heads Up!</string>
+    <string name="lugares">Lugares</string>
+    <string name="deportes">Deportes</string>
+    <string name="sports">Deportes</string>
+    <string name="emotions">Emociones</string>
+    <string name="animals">Animales</string>
+    <string name="correct">Acertadas:</string>
+    <string name="failed">Fallidas:</string>
+    <string name="time_out">¡Se acabó el tiempo!</string>
+    <string name="total">Total:</string>
+    <string-array name="animalPhrases">
+        <item>Animales</item>
+        <item>Gato</item>
+        <item>Perro</item>
+        <item>Rinoceronte</item>
+        <item>Jirafa</item>
+        <item>Raton</item>
+        <item>Lagarto</item>
+        <item>Delfin</item>
+        <item>Águila</item>
+        <item>Mariposa</item>
+        <item>Chihuahua</item>
+        <item>Elefante</item>
+        <item>Tortuga</item>
+        <item>Paloma</item>
+        <item>Cacata</item>
+        <item>León</item>
+        <item>Canguro</item>
+        <item>Cocodrilo</item>
+        <item>Oruga</item>
+        <item>Cangrejo</item>
+        <item>Pejelagarto</item>
+    </string-array>
+    <string-array name="sportPhrases">
+        <item>Deportes</item>
+        <item>Atletismo</item>
+        <item>Béisbol</item>
+        <item>Básquetbol</item>
+        <item>Natación</item>
+        <item>Remo</item>
+        <item>Fútbol</item>
+        <item>Esgrima</item>
+        <item>Voleibol</item>
+        <item>Boxeo</item>
+        <item>Jabalina</item>
+        <item>Ciclismo</item>
+        <item>Tenis</item>
+        <item>Waterpolo</item>
+        <item>Golf</item>
+    </string-array>
+    <string-array name="expressionPhrases">
+        <item>Emociones</item>
+        <item>Feliz</item>
+        <item>Triste</item>
+        <item>Enojado</item>
+        <item>Sorprendido</item>
+        <item>Aburrido</item>
+        <item>Nervioso</item>
+        <item>Asustado</item>
+        <item>Angustiado</item>
+        <item>Cansado</item>
+        <item>Sonrojado</item>
+        <item>Enamorado</item>
+        <item>Miedoso</item>
+        <item>Valiente</item>
+        <item>Paralizado</item>
+    </string-array>
+</resources>
